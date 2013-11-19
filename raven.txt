@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 title title
+=======
+
+line line line line
+line lnie line line
+>>>>>>> feature
 
 happy happy happy
 sad sad sad
